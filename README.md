@@ -1,4 +1,4 @@
-New-Project: Git Setup Guide
+New-Project: Git Setup Guide - new file
 
 This document provides the step-by-step instructions for initializing this repository's Git workflow. The primary goal is to create a development branch, add this README, and merge it safely into the main branch.
 
